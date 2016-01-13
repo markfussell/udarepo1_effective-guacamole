@@ -15,7 +15,7 @@ but this is a first structural pass to see if the materials / presentation-order
 
 The voice track was mostly separate from the visuals so they could be easily recomposed.  
 
-There are a few mis-spoken sections "add box" vs. "box add" that are obvious mistakes and would need to be re-recorded to be 'consistent' 
+There are a few mis-spoken sections (e.g. "add box" vs. "box add") that are obvious mistakes and would need to be re-recorded to be 'consistent' 
 
 For Part-2 there is not really enough time for a full screen cast, so sections have been elided with a visual transition.
 The fuller version is about three-five minutes longer and flows a bit better, but that was beyond the time limit.
