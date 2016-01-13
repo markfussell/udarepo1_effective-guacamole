@@ -6,6 +6,7 @@ This is the synopsis of an introduction to computer-virtualization unit that mig
 
 ## Presentation as video
 
+<https://raw.githubusercontent.com/markfussell/udarepo1_effective-guacamole/master/doc/unit_1_vc/Udacity_VirtualComputer_Proj1d1_trim.m4v>
 
 ## Presentation Notes (2016-01-12)
 
