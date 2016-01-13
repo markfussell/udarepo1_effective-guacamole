@@ -11,7 +11,7 @@ The first week covered HTTP and HTML but these are really completely separable t
 simple local files (file:...) or a static website like GitHub.  Understanding HTML (at least 'basic output') doesn't require understanding 
 HTTP user-agents, GAE, or really much of anything beyond URLs being links/references to something else.  
 
-And similarly, understanding HTTP does not require thinking that much about the content (HTML or JSON or image or ...) resource that is retrieved.  And again, user-agents and GAE are  
+And similarly, understanding HTTP does not require thinking that much about the content (HTML or JSON or image or ...) resource that is retrieved.  And again, user-agents and GAE are extraneous and confusing. 
 
 A second example is to have a dynamic web site requires some kind of 'persistence' but using python for that persistence
 initially is easier to understand (is more empowering) than bringing in SQL and non-SQL databases (including some very unusual 
