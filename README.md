@@ -2,8 +2,8 @@
 
 The following are two homework/portfolio items for the Udacity interview:
 
-  * [A review of cs253](/doc/cs253)
-  * [A unit on Virtual Computers](/doc/unit_1_vc)
+  * [A review of cs253](/doc/review_cs253.md)
+  * [A unit on Virtual Computers](/doc/unit_1_vc.md)
   
 I chose cs253 because it was clearly done by a skilled and knowledgeable instructor, 
 but the contents seemed to be overwhelming (to the target audience) in their presentation. 
