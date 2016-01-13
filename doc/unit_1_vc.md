@@ -10,16 +10,17 @@ This is the synopsis of an introduction to computer-virtualization unit that mig
 
 ## Presentation Notes (2016-01-12)
 
-The presentation is relatively "low budget": The first part (up to the eighth minute) has visuals as pretty basic slides with interspersed
-mini-quizes and the second part is a screen cast that students could follow along with.  I actually like much more dynamic visuals,
-but this is a first structural pass to see if the materials / presentation-order is reasonable.
+The presentation is relatively "low budget": The first part (up to the eighth minute) has visuals as pretty basic slides interspersed
+with mini-quiz placeholders.  The second part is a screen cast that students could follow along with on their own computer.  
 
-The voice track was mostly separate from the visuals so they could be easily recomposed.  
+I prefer more dynamic visuals, but it seemed better to focus this first pass on seeing if the materials and presentation-order are reasonable.
+
+The voice track was done mostly separate from the visuals so they could be easily recomposed or translated and re-timed.  
 
 There are a few mis-spoken sections (e.g. "add box" vs. "box add") that are obvious mistakes and would need to be re-recorded to be 'consistent' 
 
-For Part-2 there is not really enough time for a full screen cast, so sections have been elided with a visual transition.
-The fuller version is about three-five minutes longer and flows a bit better, but that was beyond the time limit.
+For Part-2 there is not really enough time for a full screen cast, so large sections have been elided with a visual transition.
+The fuller version is about five minutes longer and flows a bit better, but that was well beyond the time limit.
 
 There are only placeholders for ending Part-1 and starting Part-2.  I did content for Part-2 instead.
 
